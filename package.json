@@ -1,0 +1,16 @@
+{
+  "name": "chatten",
+  "version": "1.0.0",
+  "description": "A very small and simple example on how to build a chat using the Firebase realtime database.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GuTsaV/firebase-chat.git"
+  },
+  "main": "index.js",
+  "author": "Gustav Ehrenborg",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.1.1",
+    "readline": "^1.3.0"
+  }
+}
